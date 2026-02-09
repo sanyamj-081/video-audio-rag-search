@@ -1,0 +1,9 @@
+joblib
+ffmpeg-python
+openai-whisper
+numpy
+pandas
+
+# Standard library modules (no need to install)
+# json
+# os
